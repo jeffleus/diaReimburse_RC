@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/jeffl/Documents/Developer/diaReimburse_RC/www/js/controllers.js",
+        "/Users/jeffl/Documents/Developer/diaReimburse_RC/www/app/trips/tripService.js",
+        "/Users/jeffl/Documents/Developer/diaReimburse_RC/www/app/home/homeController.js"
+    ]
+}
